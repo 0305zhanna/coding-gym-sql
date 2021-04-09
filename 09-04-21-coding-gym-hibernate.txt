@@ -1,0 +1,16 @@
+Write a query in SQL to find the name and year of the movies.
+
+Write a query in SQL to find the movies which was released before 1998.
+
+Write a query in SQL to find the titles of the movies with ID 905, 907, 917.
+
+Write a query in SQL to list all the movies with title, year, date of release, movie duration, and first and last
+name of the director which released before 1st January 1989, and sort the result set according to release date from
+highest date to lowest.
+
+Write a query in SQL to find the name of those movies where one or more actors acted in two or more movies.
+
+Write a query in SQL to list all the actors who have not acted in any movie between 1990 and 2000.
+
+Write a query in SQL to list the first and last names of all the actors who were cast in the movie 'Annie Hall',
+and the roles they played in that production.
